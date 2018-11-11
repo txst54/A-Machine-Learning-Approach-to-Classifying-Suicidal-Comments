@@ -1,3 +1,4 @@
+#Written by Clint Wang 2018
 import json
 import numpy as np
 import keras
